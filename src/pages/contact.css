@@ -1,0 +1,119 @@
+.contact-page{
+    font-family:arial,serif;;
+    font-size:40px;
+    text-align:center;
+    padding:5px;
+    
+}
+
+
+
+.contact-page-main-wrapper{
+    width:80%;
+    margin:0px auto;
+     height:650px; 
+    text-align:left;
+
+    
+}
+.contact-form-left-div{
+    width:50%;
+   
+    height:100%;
+    float:left;
+    text-align:left;
+    
+    
+}
+.contact-form-right-div{
+    width:50%;
+    
+    height:100%;
+    float:left;
+    
+}
+.contact-form-list >li {
+    font-size:30px;
+    padding:0px 5px 5px 10px;;
+    text-align:left;
+    
+    
+}
+
+li> button{
+    font-size:30px;
+    padding:0px 5px 5px 10px;;
+    text-align:center;
+    
+    border:1px solid black;
+}
+
+
+
+li>input{
+    width:80%;
+    min-height:40px;
+    border:2px solid black;
+
+}
+.contact-form-input-field{
+    width:80%;
+    min-height:40px;
+    border:2px solid black;
+}
+.contact-form-input-field-text-area{
+    width:80%;
+    min-height:200px;
+    border:2px solid black;
+
+}
+.mapouter{
+     
+   
+    text-align:right;
+    height:357px;
+    width:480px;
+}
+.gmap_canvas {
+    
+    overflow:hidden;
+    background:none!important;
+    height:357px;
+    width:480px;
+}
+
+.contact-media{
+        width:32px;
+        height:32px;
+    }
+
+
+
+
+
+
+
+
+
+#mc_embed_signup{
+    background:#fff; 
+    clear:left; 
+    font:14px Helvetica,Arial,sans-serif; 
+    width:100%;
+
+}
+
+.required-field-division{
+    position: absolute; left: -5000px; 
+   
+}
+.input-type-value{
+    position: absolute;
+     left: -5000px;
+}
+
+.contact-page-main-wrapper{
+
+height:100%
+
+}

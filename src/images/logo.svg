@@ -1,0 +1,13 @@
+<svg width="250" height="37" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" stroke-width="2" stroke="#222222" height="35" width="248" y="42" x="1"/>
+  <text stroke="#222222" transform="matrix(13.88992977142334,0,0,2.007580280303955,-754.0608916282654,10.32769787311554) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="11.5" x="58.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="#222222" transform="matrix(1.6533165335909814,0,0,1.255687175945937,-28.298878831084878,-7.676956493248619) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="28.113833" x="16.70969" stroke-opacity="null" stroke-width="0" fill="#664040">Kantipur Hotel</text>
+ </g>
+</svg>
