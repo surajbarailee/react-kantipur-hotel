@@ -67,11 +67,11 @@ class Contact extends Component {
                                     <li> Name</li>
                                     <li> <input type="text" name="name" value={this.state.username} onChange={this.handleUSernameChange} required /></li>
                                     <li> Email</li>
-                                    <li> <input type="email" name="email" value={this.state.email} onChange={this.handleEmailChange} /></li>
+                                    <li> <input type="email" name="email" value={this.state.email} onChange={this.handleEmailChange}  /></li>
                                     <li> Subject</li>
-                                    <li> <input type="text" name="subject" value={this.state.subject} onChange={this.handleSubjectChange} /></li>
+                                    <li> <input type="text" name="subject" value={this.state.subject} onChange={this.handleSubjectChange} required /></li>
                                     <li> Message</li>
-                                    <li> <textarea name="message" className="contact-form-input-field-text-area" value={this.state.message} onChange={this.handleMessageChange}></textarea></li>
+                                    <li> <textarea name="message" className="contact-form-input-field-text-area" value={this.state.message} onChange={this.handleMessageChange} required></textarea></li>
                                     <li><button type="submit" >Send</button>
                                     </li>
                                 </ul>
