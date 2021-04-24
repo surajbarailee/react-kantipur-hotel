@@ -45,7 +45,7 @@ export default class SingleRoom extends Component {
                         "amount": payload.amount
                     };
                     let config = {
-                        headers: { 'Authorization': 'Key test_secret_key_5dba11342c9249108bbabe953f4a33d7' }
+                        headers: { 'Authorization': '' } /* put your secret test key here */
                     };
                     axios.post("https://khalti.com/api/v2/payment/verify/", data, config)
                         .then(response => {
