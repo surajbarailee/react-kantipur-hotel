@@ -1,1 +1,1 @@
-https://reactkantipurhotel.netlify.com/
+https://reactkantipurhotel.netlify.app/
